@@ -29,7 +29,7 @@ This script:
 
 Short code snippet:
 ```bash
-cd /www/docker/confi/docker-test
+cd /www/docker/config/docker-test
 git fetch --all
 git reset --hard origin/main
 git pull
