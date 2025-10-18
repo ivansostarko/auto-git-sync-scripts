@@ -4,7 +4,7 @@ set -euo pipefail
 # --- Settings ---
 REPO_DIR="/mnt/github-ivan/auto-git-sync-scripts"
 BRANCH="main"
-LOG_FILE="/home/auto-git-sync-scripts/update_repo.log"
+LOG_FILE="/mnt/github-ivan/auto-git-sync-scripts/update_repo.log"
 
 # Optional: ensure Git identity is set (uncomment & edit if needed)
 # git -C "$REPO_DIR" config user.name  "Your Name"
