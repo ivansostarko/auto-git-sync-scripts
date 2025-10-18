@@ -68,17 +68,7 @@ crontab -e
 
 ---
 
-## 📁 Repository Structure Example
 
-```
-auto-git-sync-scripts/
-│
-├── update_repo.sh
-├── commit_repo.sh
-└── README.md
-```
-
----
 
 ## 🔒 Requirements
 
